@@ -176,7 +176,9 @@ The project directory typically contains the following files:
 - **Nilesh Agrawal and Sai Charan** –  Reservation logic and Seat Matrix Design
 - **Vishnuvardhan Reddy and Akash** – Driver & Trip Management Module
 - **Koustav Das and Purna Siva** – File Handling and Data Validation
-- **Atul Singh and Aditya Kumar Patika** – PPT making and documentation 
+- **Atul Singh and Aditya Kumar Patika** – PPT making and documentation
+
+- class os project
 
 
 
